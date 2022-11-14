@@ -1,0 +1,22 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "A bot for TeaClient Discord Server.",
+  "main": "dist/app.js",
+  "scripts": {
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeaClient-MC/DiscordBot.git"
+  },
+  "author": "wcaleniekubaa",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TeaClient-MC/DiscordBot/issues"
+  },
+  "homepage": "https://github.com/TeaClient-MC/DiscordBot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
